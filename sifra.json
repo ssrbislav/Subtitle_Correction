@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "soft-projekat",
+  "private_key_id": "2187ba24d2fe856f8fe87dc9153681c6437e0f19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDluuEuTV5kAO+L\nE5K/jKMgAZxFbWZ/nNlpJOk93g/oJbr5ltBb6inSbo24EibKJ0xytQmor5sR91d1\n4NfpTdWB9fx7E0wTmok1jXHJJmCkeYfOSTskJY3xsQJbvOEma597pyiCqyt08rZ7\nu2Itj/qH8897E1zbqCWphDh0vHpehMX4F5rODgqSRF9ed3z26gxi5oItOChmsrD8\ny2WNi24NqXD55/MTOmMcegVNDIfWWr8i2+H/yEkmIyd0+nTTlqAwyEazWbyjJhXA\nnedfSQ82b4V9t99+PwPmQFTK4Jo+uXmuLhUqddmMdQn7cQs89EpfuhjMWenjrI65\n+sBgTZMvAgMBAAECggEAAsOXmBKnRX3KuV7pXLmHDTfnJkAtwYgy/qTKh43iIl8Q\nEOwdA7zpTFnminecQcsln1yU7bAOnJ6UHnFCoKsFXmR8ZKyflCX9GtvFVI7oigY3\nRVh92LWQmAPHM0ODn+hrcF4Y8w0Vzp7H70uMd4VajCvo8xaDJQ9bc3Z2iYEHL0t6\nyVjj7LaL+DXJEwDIXeqKP6zX4JArXqlVrv85SZ2NGOAFwP38TP367ppGh+5yrhN9\nUje8hMjaEJudDzxG1rdDrlBgP7MnMxWqAEsw2irynwBV4rgvm7hEstf8dZeWJOiz\n/sA61QLNAEw5za98QfS/5SM/Wh/jJL0prsFok2IjQQKBgQD/UTv9Wv22zJgA1w+R\ne7xZc0rOglUJYvgBgWrRuoIhLAxJxtz9R6TGgdDTrS+ewfKpy/0tP67BeYGY1W2D\nD3+3CXKYemcioolFguDiPyY3Ol8YiGEj/gjj/Ie1SHkCnMG6KsW8z+AacDNuQwMR\njxTi8Hmt9zkaXfmu8mhm2YgN0QKBgQDmWCFy5DqZlKtNjxmUs9Tt4clMqqfWpXgy\n2W0if44VSUkjgM4hMtrrzNf2KBgvTPBAUD/2BKajK1QhseYeFBEIxT65PHwPt2qC\n8BUZgsDUObo8NJy0URd4iF2Vf2hgFlqJK/05AAo8N3Ek4DJgbcrLXr5xUCsmFlND\napr1uy7Q/wKBgHJnPhA6k3Ezn/DQbQNthGo4hQ6fy+bW1/YkvW6YufKPQDpWx3Me\nhTEFvkL7WVkz4r4+z4VVAcNj5LRM/jM54Kptq1Gzlz8nwYbKLGZ0kXUxzKa7hXuR\nOv6di1mpzb9j6lK3E7+VDgAKwqDnmhpmGJ/PzVYsbwPnlBfWOv3K/3HhAoGBAMns\nmi3oisJVhLHx7z/fQZrjYp7Vv1o4Jh2VYslqPjjEzNvVr12FAkrRgMQmM8VLUhVf\nBCL7wsSpWBBNrmfRuXkRyEGEF1GDvVhZdHWvnLCuhmb+zBx6NfQQvtEuJmaNUgKL\n0GjmcxKEm6fy7daAiNUtEg+tcpXp3kXsLzmZRJorAoGBAKYpKr4++zt4+mNJNNcU\nuAdSXKXV8Uc1WIqKLmQNs8EWveTC9iXFzs7RLW47PcKpO6AafnzB/oOuQfFqG6j2\n60clr3hDY6SclwlPiahksV74Uhf/QqTadQVFOrB5VEvKPRV2m7EkxneOuwQrXEkz\nmjXzwPatoJs0WeRWW9zDcInO\n-----END PRIVATE KEY-----\n",
+  "client_email": "bojana@soft-projekat.iam.gserviceaccount.com",
+  "client_id": "112669575879216079971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bojana%40soft-projekat.iam.gserviceaccount.com"
+}
